@@ -1,6 +1,6 @@
 ## 安装
 ``
-go install /protoc-gen-go-xorm/@latest
+go install github.com/dreaminglwj/protoc-gen-go-xorm@latest
 ``
 
 

@@ -1,4 +1,4 @@
-module git.fa.com/protoc-gen-go-xorm
+module github.com/dreaminglwj/protoc-gen-go-xorm
 
 go 1.20
 
