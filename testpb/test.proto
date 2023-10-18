@@ -1,0 +1,11 @@
+package testpb;
+
+option go_package="github.com/dreaminglwj/protoc-gen-go-xorm;testpb";
+
+message Status {
+  enum Def {
+    Unspecified = 0;
+    FooStatus = 1;
+    BarStatus = 2;
+  }
+}
