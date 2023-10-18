@@ -9,3 +9,19 @@ message Status {
     BarStatus = 2;
   }
 }
+
+message Status1 {
+  enum Def {
+    Unspecified = 0;
+    FooStatus = 1;
+    BarStatus = 2;
+  }
+}
+
+message Status2 {
+  enum Def {
+    Unspecified = 0;
+    FooStatus = 1;
+    BarStatus = 2;
+  }
+}
